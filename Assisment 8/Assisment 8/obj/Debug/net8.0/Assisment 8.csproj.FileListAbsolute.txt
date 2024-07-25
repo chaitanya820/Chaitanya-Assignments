@@ -1,0 +1,4 @@
+C:\Users\chait\source\repos\Assisment 8\Assisment 8\obj\Debug\net8.0\Assisment 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chait\source\repos\Assisment 8\Assisment 8\obj\Debug\net8.0\Assisment 8.AssemblyInfoInputs.cache
+C:\Users\chait\source\repos\Assisment 8\Assisment 8\obj\Debug\net8.0\Assisment 8.AssemblyInfo.cs
+C:\Users\chait\source\repos\Assisment 8\Assisment 8\obj\Debug\net8.0\Assisment 8.csproj.CoreCompileInputs.cache
